@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\bin\Debug\net6.0\Pacientes.exe
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\bin\Debug\net6.0\Pacientes.deps.json
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\bin\Debug\net6.0\Pacientes.runtimeconfig.json
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\bin\Debug\net6.0\Pacientes.dll
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\bin\Debug\net6.0\ref\Pacientes.dll
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\bin\Debug\net6.0\Pacientes.pdb
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\obj\Debug\net6.0\Pacientes.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\obj\Debug\net6.0\Pacientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\obj\Debug\net6.0\Pacientes.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\obj\Debug\net6.0\Pacientes.AssemblyInfo.cs
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\obj\Debug\net6.0\Pacientes.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\obj\Debug\net6.0\Pacientes.dll
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\obj\Debug\net6.0\ref\Pacientes.dll
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\obj\Debug\net6.0\Pacientes.pdb
+C:\Users\nicol\Documents\DECOLATECH\Desafio-DECOLATECH\Pacientes\obj\Debug\net6.0\Pacientes.genruntimeconfig.cache
